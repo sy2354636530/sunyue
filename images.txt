@@ -10,3 +10,4 @@ rabbitmq:3.7.4
 mongo:3.2.10
 elasticsearch:7.6.2
 apache/rocketmq:4.8.0
+mysql:5.7
