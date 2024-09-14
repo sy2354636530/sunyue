@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #redis
 redis:3.2
+rabbitmq:3.7.4
