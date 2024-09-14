@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-node:16.18.1
+apache/rocketmq-namesrv:4.8.0
+apache/rocketmq-broker:4.8.0
