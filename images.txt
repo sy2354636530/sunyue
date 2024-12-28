@@ -5,4 +5,3 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 redis:3.2.100
-redis:7.4.0
