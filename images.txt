@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-shardingSphere-proxy:5.1.1
+apache/shardingSphere-proxy:5.1.1
